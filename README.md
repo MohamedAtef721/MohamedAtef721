@@ -76,7 +76,7 @@ _Egyptian E-Learning University (EELU), Sohag_
 ## 📬 Connect With Me  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your-LinkedIn-Link](https://www.linkedin.com/in/mohamed-atef22/))   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([Your-Portfolio-Link](https://mohamed-atef-portfolio-cvnaln4.gamma.site/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)  
 
 ---
