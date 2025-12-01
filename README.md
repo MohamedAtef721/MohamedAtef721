@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 About Me  
-I am a **Junior Data Analyst** with a solid foundation in **Python, SQL, and Statistics**, passionate about turning complex datasets into actionable insights.  
+I am a **Junior Data Analyst** with a strong foundation in **Python, SQL, and Statistics**, passionate about turning complex datasets into actionable insights.  
 Currently advancing my skills with **IBM DEPI Program**, focusing on **data analysis, machine learning, and visualization** through practical projects and real-world case studies.  
 
 ---
@@ -12,7 +12,7 @@ Currently advancing my skills with **IBM DEPI Program**, focusing on **data anal
 ## 🔹 Core Expertise  
 - **Data Analytics**: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Insights  
 - **Data Visualization**: Power BI, Excel (Pivot Tables, Advanced Functions), Matplotlib, Seaborn  
-- **Machine Learning**: Fundamentals of predictive modeling, AI techniques  
+- **Machine Learning**: Fundamentals of predictive modeling & AI techniques  
 - **Database Management**: SQL, MySQL  
 
 ---
@@ -78,11 +78,15 @@ _Egyptian E-Learning University (EELU), Sohag_
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats  
 
-![Mohamed Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohamed Atef's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=html" alt="Top Languages" />
+</p>
 
 ---
 
