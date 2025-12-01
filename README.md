@@ -78,10 +78,11 @@ _Egyptian E-Learning University (EELU), Sohag_
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 ![Mohamed Atef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+ 
 
 ---
 
