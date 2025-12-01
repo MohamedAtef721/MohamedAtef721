@@ -4,20 +4,21 @@
 ---
 
 ## 🌟 About Me  
-I am a Junior Data Analyst with a strong foundation in **Python, SQL, and Statistics**, passionate about transforming complex datasets into actionable insights that drive business value.  
-Currently training with **IBM (DEPI Program)**, focusing on data analysis, machine learning, and visualization through real-world projects and case studies.  
+I am a **Junior Data Analyst** with a solid foundation in **Python, SQL, and Statistics**, passionate about turning complex datasets into actionable insights.  
+Currently advancing my skills with **IBM DEPI Program**, focusing on **data analysis, machine learning, and visualization** through practical projects and real-world case studies.  
 
 ---
 
 ## 🔹 Core Expertise  
 - **Data Analytics**: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Insights  
 - **Data Visualization**: Power BI, Excel (Pivot Tables, Advanced Functions), Matplotlib, Seaborn  
-- **Machine Learning**: Fundamentals of predictive modeling & AI techniques  
+- **Machine Learning**: Fundamentals of predictive modeling, AI techniques  
 - **Database Management**: SQL, MySQL  
 
 ---
 
 ## ⚙️ Tools & Skills  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
@@ -33,21 +34,17 @@ Currently training with **IBM (DEPI Program)**, focusing on data analysis, machi
 ## 📈 Featured Projects  
 
 ### ⚽ European Soccer Data Analysis  
-- Analyzed European soccer datasets using **Python & SQL**.  
-- Performed EDA to uncover patterns in teams, players, and match results.  
-**Skills Used**: Python (Pandas, Seaborn), SQL (Joins, Aggregations)  
-
----
+- Explored European soccer datasets using **Python & SQL**.  
+- Conducted EDA to uncover patterns in teams, players, and match results.  
+**Skills:** Python (Pandas, Seaborn), SQL (Joins, Aggregations)  
 
 ### 🏥 Healthcare Claims Analysis  
-- Analyzed healthcare claims datasets to detect patterns in patient visits, costs, and insurance claims.  
-**Skills Used**: Python (Pandas, NumPy), SQL  
-
----
+- Analyzed healthcare claims data to detect trends in patient visits, costs, and insurance claims.  
+**Skills:** Python (Pandas, NumPy), SQL  
 
 ### 🕒 Employee Attendance System (Graduation Project)  
-- Developed an Attendance System integrating **Face Recognition** and **Location Tracking** for secure and accurate attendance management.  
-**Skills Used**: Python, SQL, React.js, Node.js, MongoDB  
+- Developed a secure attendance system integrating **Face Recognition** and **Location Tracking**.  
+**Skills:** Python, SQL, React.js, Node.js, MongoDB  
 
 ---
 
@@ -60,22 +57,22 @@ _Egyptian E-Learning University (EELU), Sohag_
 
 ## 📜 Certifications  
 - IBM – Introduction to Data Analytics  
-- IT Specialist – Device Configuration and Management (Certiport, Pearson)  
+- IT Specialist – Device Configuration & Management (Certiport, Pearson)  
 - CCNAv7 – Introduction to Networks (Cisco Networking Academy)  
 
 ---
 
 ## 🏆 Future Plans  
-- 🔍 Enhance Python & SQL skills for advanced analytics  
-- 🏗 Build projects in Machine Learning & AI  
-- 🤝 Collaborate on data-driven projects  
+- Enhance Python & SQL skills for advanced analytics  
+- Build projects in Machine Learning & AI  
+- Collaborate on impactful, data-driven projects  
 
 ---
 
 ## 🎯 Goals & Aspirations  
-- 🌟 Grow as a Data Analyst, solving real-world analytical problems  
-- 📚 Expand expertise in Machine Learning & AI  
-- 🚀 Contribute to innovative data solutions  
+- Grow as a Data Analyst, solving real-world analytical challenges  
+- Expand expertise in Machine Learning & AI  
+- Contribute to innovative data solutions  
 
 ---
 
@@ -86,4 +83,3 @@ _Egyptian E-Learning University (EELU), Sohag_
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)  
 
 ---
-
