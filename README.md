@@ -1,5 +1,5 @@
 # 👋 Hey, I’m Mohamed Atef  
- *Data Analyst | Data Scientist | Power BI & AI*  
+## *Data Analyst | Data Scientist | Power BI & AI*  
 
 <img align="right" height="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwZnpueHlkZGF5dmVwODQyOHRnbmpyeWxtb3lqNDZ4djM5ZXl3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pALw8LdftuqAw/giphy.gif" />
 
@@ -45,9 +45,9 @@
 ---
 
 # 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&show_icons=true&theme=radical)  
-![](https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=midnight-purple&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
  
 
 ---
