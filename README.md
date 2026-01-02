@@ -44,10 +44,14 @@
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=midnight-purple&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedatef22&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=midnight-purple&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" />
+</p>
+
  
 
 ---
