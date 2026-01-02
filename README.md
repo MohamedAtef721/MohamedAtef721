@@ -2,7 +2,7 @@
 
 ## *Data Analyst | Data Scientist | Power BI & AI*  
 
-<<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwZnpueHlkZGF5dmVwODQyOHRnbmpyeWxtb3lqNDZ4djM5ZXl3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pALw8LdftuqAw/giphy.gif" />
+<<img align="right" height="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwZnpueHlkZGF5dmVwODQyOHRnbmpyeWxtb3lqNDZ4djM5ZXl3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pALw8LdftuqAw/giphy.gif" />>
 
 
 ### 🔹 Who Am I  
