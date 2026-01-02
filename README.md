@@ -1,12 +1,13 @@
-# Hey, I’m Mohamed Atef  ✨  
-*Junior Data Analyst | Data Storyteller | AI Curious Mind*  
+# Hey, I’m Mohamed Atef  
+*Data Analyst | Power BI Developer | AI Curious Mind*  
 
-<img align="right" height="210" src="[https://i.pinimg.com/originals/9b/7d/8c/9b7d8c8f9c1e5a2b0d3e9f9e3a8c2f5.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo5czE0ZmxkYjJqamFpb3JlM2I2c21tcmZwbGR1M2J1cjkyMTgxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RdCRnI8IgUkAU/giphy.gif)" />
+<img align="right" height="210" src="https://media.giphy.com/media/RdCRnI8IgUkAU/giphy.gif" />
 
 ✦ **Who Am I?**  
 ❀ I see datasets as stories waiting to be told  
 ❀ Numbers don’t scare me — messy data does (and I clean it 😌)  
 ❀ Passionate about analytics, curious about AI, and addicted to learning  
+
 
 ✦ **What I Love Doing**  
 • Turning chaos into clean, readable data  
@@ -36,7 +37,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=flat) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-%235B8FA8.svg?style=flat) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
 ---
 
@@ -47,7 +50,3 @@
 
 ---
 
-
-✨ *Data is quiet. I help it speak.* ✨  
-
-[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=2&color=12)](https://visitcount.itsvg.in)
