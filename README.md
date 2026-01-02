@@ -2,7 +2,7 @@
 
 ## *Data Analyst | Data Scientist | Power BI & AI*  
 
-<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3luMmF2M3c3dmU0aWMxaXdrbnN4dHRhZWJqeDFkcWh0YmtoNXdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
+<img align="right" height="700" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3luMmF2M3c3dmU0aWMxaXdrbnN4dHRhZWJqeDFkcWh0YmtoNXdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 
 ### 🔹 Who Am I  
 → A data analyst who believes every dataset has a voice  
@@ -46,12 +46,9 @@
 
 ---
 
-## 📊 GitHub Stats  
-
+# 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&show_icons=true&theme=radical)  
-
 ![](https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=radical)  
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&layout=compact&theme=radical)
  
 
