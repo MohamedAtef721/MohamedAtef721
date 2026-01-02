@@ -1,7 +1,8 @@
 # Hey, I’m Mohamed Atef  
 *Data Analyst | Power BI Developer  | AI Curious Mind*  
 
-<img align="right" height="230" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3luMmF2M3c3dmU0aWMxaXdrbnN4dHRhZWJqeDFkcWh0YmtoNXdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
+<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3luMmF2M3c3dmU0aWMxaXdrbnN4dHRhZWJqeDFkcWh0YmtoNXdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
+
 
 ✦ **Who Am I?**  
 ❀ I see datasets as stories waiting to be told  
