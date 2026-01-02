@@ -1,13 +1,12 @@
 # Hey, I’m Mohamed Atef  
 *Data Analyst | Power BI Developer | AI Curious Mind*  
 
-<img align="right" height="210" src="https://media.giphy.com/media/RdCRnI8IgUkAU/giphy.gif" />
+<img align="right" height="210" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3luMmF2M3c3dmU0aWMxaXdrbnN4dHRhZWJqeDFkcWh0YmtoNXdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 
 ✦ **Who Am I?**  
 ❀ I see datasets as stories waiting to be told  
 ❀ Numbers don’t scare me — messy data does (and I clean it 😌)  
 ❀ Passionate about analytics, curious about AI, and addicted to learning  
-
 
 ✦ **What I Love Doing**  
 • Turning chaos into clean, readable data  
@@ -49,4 +48,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact)  
 
 ---
-
