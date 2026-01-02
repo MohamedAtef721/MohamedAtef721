@@ -4,20 +4,21 @@
 
 <img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3luMmF2M3c3dmU0aWMxaXdrbnN4dHRhZWJqeDFkcWh0YmtoNXdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 
-### ✦ Who Am I?  
-❀ I see datasets as stories waiting to be told  
-❀ Numbers don’t scare me — messy data does (and I clean it 😌)  
-❀ Passionate about analytics, curious about AI, and addicted to learning  
+### 🔹 Who Am I  
+→ A data analyst who believes every dataset has a voice  
+→ Turns chaos into structure and noise into insight  
+→ Curious mind exploring analytics, AI & ML  
 
-### ✦ What I Love Doing  
-• Turning chaos into clean, readable data  
-• Finding patterns that *actually* matter  
-• Building dashboards that feel simple, not overwhelming  
+### 🔹 What I Do  
+→ Clean, explore & analyze data  
+→ Extract patterns & trends  
+→ Design dashboards that guide decisions  
 
-### ✦ Fun Facts (Data Edition)  
-ꕤ I enjoy EDA a little *too much*  
-ꕤ I trust insights more than intuition 📊  
-ꕤ Currently upgrading my skills through real-world projects & challenges  
+### 🔹 Fun Facts  
+→ EDA never feels boring to me  
+→ Numbers > assumptions 📊  
+→ Always learning, always improving  
+
 
 ---
 
