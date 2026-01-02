@@ -1,7 +1,7 @@
 # Hey, I’m Mohamed Atef  ✨  
 *Junior Data Analyst | Data Storyteller | AI Curious Mind*  
 
-<img align="right" height="210" src="https://i.pinimg.com/originals/9b/7d/8c/9b7d8c8f9c1e5a2b0d3e9f9e3a8c2f5.gif" />
+<img align="right" height="210" src="[https://i.pinimg.com/originals/9b/7d/8c/9b7d8c8f9c1e5a2b0d3e9f9e3a8c2f5.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo5czE0ZmxkYjJqamFpb3JlM2I2c21tcmZwbGR1M2J1cjkyMTgxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RdCRnI8IgUkAU/giphy.gif)" />
 
 ✦ **Who Am I?**  
 ❀ I see datasets as stories waiting to be told  
@@ -17,6 +17,13 @@
 ꕤ I enjoy EDA a little *too much*  
 ꕤ I trust insights more than intuition 📊  
 ꕤ Currently upgrading my skills through real-world projects & challenges  
+
+---
+
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)  
 
 ---
 
@@ -40,12 +47,6 @@
 
 ---
 
-## 🌐 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)  
-
----
 
 ✨ *Data is quiet. I help it speak.* ✨  
 
