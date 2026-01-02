@@ -1,99 +1,52 @@
-# 🚀 Mohamed Atef  
-**Junior Data Analyst | Aspiring Data Scientist | AI & Machine Learning Enthusiast**  
+# Hey, I’m Mohamed Atef  ✨  
+*Junior Data Analyst | Data Storyteller | AI Curious Mind*  
+
+<img align="right" height="210" src="https://i.pinimg.com/originals/9b/7d/8c/9b7d8c8f9c1e5a2b0d3e9f9e3a8c2f5.gif" />
+
+✦ **Who Am I?**  
+❀ I see datasets as stories waiting to be told  
+❀ Numbers don’t scare me — messy data does (and I clean it 😌)  
+❀ Passionate about analytics, curious about AI, and addicted to learning  
+
+✦ **What I Love Doing**  
+• Turning chaos into clean, readable data  
+• Finding patterns that *actually* matter  
+• Building dashboards that feel simple, not overwhelming  
+
+✦ **Fun Facts (Data Edition)**  
+ꕤ I enjoy EDA a little *too much*  
+ꕤ I trust insights more than intuition 📊  
+ꕤ Currently upgrading my skills through real-world projects & challenges  
 
 ---
 
-## 🌟 About Me  
-I am a **Junior Data Analyst** with a strong foundation in **Python, SQL, and Statistics**, passionate about turning complex datasets into actionable insights.  
-Currently advancing my skills with **IBM DEPI Program**, focusing on **data analysis, machine learning, and visualization** through practical projects and real-world case studies.  
+## 💻 My Tech Playground  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=flat) 
+![Seaborn](https://img.shields.io/badge/Seaborn-%235B8FA8.svg?style=flat) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 
 ---
 
-## 🔹 Core Expertise  
-- **Data Analytics**: Data Cleaning, Exploratory Data Analysis (EDA), Statistical Insights  
-- **Data Visualization**: Power BI, Excel (Pivot Tables, Advanced Functions), Matplotlib, Seaborn  
-- **Machine Learning**: Fundamentals of predictive modeling & AI techniques  
-- **Database Management**: SQL, MySQL  
+## 📊 GitHub Mood  
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact)  
 
 ---
 
-## ⚙️ Tools & Skills  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 🌐 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)  
 
 ---
 
-## 📈 Featured Projects  
+✨ *Data is quiet. I help it speak.* ✨  
 
-### ⚽ European Soccer Data Analysis  
-- Explored European soccer datasets using **Python & SQL**.  
-- Conducted EDA to uncover patterns in teams, players, and match results.  
-**Skills:** Python (Pandas, Seaborn), SQL (Joins, Aggregations)  
-
-### 🏥 Healthcare Claims Analysis  
-- Analyzed healthcare claims data to detect trends in patient visits, costs, and insurance claims.  
-**Skills:** Python (Pandas, NumPy), SQL  
-
-### 🕒 Employee Attendance System (Graduation Project)  
-- Developed a secure attendance system integrating **Face Recognition** and **Location Tracking**.  
-**Skills:** Python, SQL, React.js, Node.js, MongoDB  
-
----
-
-## 🎓 Education  
-**Bachelor of Computer Sciences & Information Technology**  
-_Egyptian E-Learning University (EELU), Sohag_  
-📅 2021 – 2025 | GPA: **3.3** | Graduation Project: **A+**  
-
----
-
-## 📜 Certifications  
-- IBM – Introduction to Data Analytics  
-- IT Specialist – Device Configuration & Management (Certiport, Pearson)  
-- CCNAv7 – Introduction to Networks (Cisco Networking Academy)  
-
----
-
-## 🏆 Future Plans  
-- Enhance Python & SQL skills for advanced analytics  
-- Build projects in Machine Learning & AI  
-- Collaborate on impactful, data-driven projects  
-
----
-
-## 🎯 Goals & Aspirations  
-- Grow as a Data Analyst, solving real-world analytical challenges  
-- Expand expertise in Machine Learning & AI  
-- Contribute to innovative data solutions  
-
----
-
-## 📊 My GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mohamed Atef's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=html" alt="Top Languages" />
-</p>
-
----
-
-## 📬 Connect With Me  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)  
-
----
+[![](https://visitcount.itsvg.in/api?id=YOUR_GITHUB_USERNAME&icon=2&color=12)](https://visitcount.itsvg.in)
