@@ -1,20 +1,20 @@
-# Hey, I’m Mohamed Atef  
-*Data Analyst | Power BI Developer  | AI Curious Mind*  
+# 👋 Hey, I’m Mohamed Atef  
+
+## *Data Analyst | Power BI Developer | AI Curious Mind*  
 
 <img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3luMmF2M3c3dmU0aWMxaXdrbnN4dHRhZWJqeDFkcWh0YmtoNXdidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 
-
-✦ **Who Am I?**  
+### ✦ Who Am I?  
 ❀ I see datasets as stories waiting to be told  
 ❀ Numbers don’t scare me — messy data does (and I clean it 😌)  
 ❀ Passionate about analytics, curious about AI, and addicted to learning  
 
-✦ **What I Love Doing**  
+### ✦ What I Love Doing  
 • Turning chaos into clean, readable data  
 • Finding patterns that *actually* matter  
 • Building dashboards that feel simple, not overwhelming  
 
-✦ **Fun Facts (Data Edition)**  
+### ✦ Fun Facts (Data Edition)  
 ꕤ I enjoy EDA a little *too much*  
 ꕤ I trust insights more than intuition 📊  
 ꕤ Currently upgrading my skills through real-world projects & challenges  
@@ -22,13 +22,15 @@
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)
+ 
 
 ---
 
-## 💻 My Tech Playground  
+# 💻 My Tech Playground  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
@@ -43,9 +45,13 @@
 
 ---
 
-## 📊 GitHub Mood  
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact)  
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&show_icons=true&theme=radical)  
+
+![](https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=radical)  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&layout=compact&theme=radical)
+ 
 
 ---
