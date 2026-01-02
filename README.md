@@ -1,9 +1,10 @@
 # 👋 Hey, I’m Mohamed Atef  
  ## *Data Analyst | Data Scientist | Power BI & AI*  
 
-<img align="right" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
+<img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
 ✦ **Who Am I** 
+
 → A data analyst who believes every dataset has a voice  
 → Turns chaos into structure and noise into insight  
 → Curious mind exploring analytics, AI & ML  
