@@ -3,17 +3,17 @@
 
 <img align="right" height="260" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwZnpueHlkZGF5dmVwODQyOHRnbmpyeWxtb3lqNDZ4djM5ZXl3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pALw8LdftuqAw/giphy.gif" />
 
-### 🔹 Who Am I  
+✦ **Who Am I** 
 → A data analyst who believes every dataset has a voice  
 → Turns chaos into structure and noise into insight  
 → Curious mind exploring analytics, AI & ML  
 
-### 🔹 What I Do  
+✦ **What I Do**  
 → Clean, explore & analyze data  
 → Extract patterns & trends  
 → Design dashboards that guide decisions  
 
-### 🔹 Fun Facts  
+✦ **Fun Facts**  
 → EDA never feels boring to me  
 → Numbers > assumptions 📊  
 → Always learning, always improving  
@@ -21,12 +21,10 @@
 ---
 
 ## 🌐 Socials  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://mohamed-atef-portfolio-cvnaln4.gamma.site/)
  
-
 ---
 
 # 💻 My Tech Playground  
@@ -48,7 +46,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&show_icons=true&theme=radical)  
 ![](https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&layout=compact&theme=radical)
-
-
 
 ---
