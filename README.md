@@ -1,50 +1,53 @@
-# 👋 Hey, I’m Mohamed Atef  
- ## *Data Analyst | Data Scientist | Power BI & AI*  
+# 🚀 Mohamed Atef  
+### *Data Analyst & Scientist | Power BI Specialist | AI Enthusiast*
 
-<img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohamedatef22&label=Profile%20Views&color=blue&style=flat" alt="Views" />
+</p>
 
-✦ **Who Am I** 
+<img align="right" height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
-→ A data analyst who believes every dataset has a voice  
-→ Turns chaos into structure and noise into insight  
-→ Curious mind exploring analytics, AI & ML  
-
-✦ **What I Do**  
-→ Clean, explore & analyze data  
-→ Extract patterns & trends  
-→ Design dashboards that guide decisions  
-
-✦ **Fun Facts**  
-→ EDA never feels boring to me  
-→ Numbers > assumptions 📊  
-→ Always learning, always improving  
+### 💡 About Me
+- 🔍 **Data Storyteller:** I believe every dataset has a hidden narrative waiting to be told.
+- 🏗️ **Problem Solver:** I specialize in turning raw, chaotic data into structured, actionable insights.
+- 🧠 **Continuous Learner:** Currently diving deep into Advanced Analytics, Machine Learning, and AI integration.
+- 🎯 **Goal:** Bridging the gap between complex data and strategic business decisions.
 
 ---
 
-# 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)
+### 🛠️ Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **Data Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
+| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Other Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 ---
 
-# 💻 Tech Stack  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=flat) 
-![Seaborn](https://img.shields.io/badge/Seaborn-%235B8FA8.svg?style=flat) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+### 🏆 GitHub Trophies
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=mohamedatef22&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&show_icons=true&theme=radical)  
-![](https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&layout=compact&theme=radical)
+### 📊 My Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohamedatef22&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img width="97%" src="https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=radical&hide_border=true" />
+</p>
 
 ---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-atef22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-atef22" height="30" width="40" /></a>
+<a href="mailto:mohamedatef.engineer@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mohamedatef.engineer" height="30" width="40" /></a>
+</p>
+
+---
+*"Numbers have an important story to tell. They rely on you to give them a voice."*
