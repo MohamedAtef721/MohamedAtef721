@@ -1,5 +1,5 @@
-# 👋Hey, I’m Mohamed Atef  
- ## *Data Analyst | Data Scientist 
+# 👋 Hey, I’m Mohamed Atef  
+# Data Analyst | Data Scientist   
 <img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
 ✦ **Who Am I** 
