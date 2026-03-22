@@ -43,7 +43,6 @@
 
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&show_icons=true&theme=radical)  
-![](https://nirzak-streak-stats.vercel.app/?user=mohamedatef22&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&layout=compact&theme=radical)
 
 ---
