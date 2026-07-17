@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Analyst | Data Scientist | BI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I'm+Mohamed+Atef;Data+Analyst+%26+Data+Scientist;Business+Intelligence+Developer;Power+BI+%7C+Python+%7C+SQL;Building+TIJARAH+-+Smart+Inventory+%26+BI+Platform&font=Fira%20Code&center=true&width=850&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mohamed+Atef;Data+Analyst+%7C+Data+Scientist;Passionate+About+Data+Analytics;Business+Intelligence+Developer;AI+%26+Machine+Learning+Enthusiast" />
 </p>
 
 ## 💫 About Me
@@ -64,6 +64,7 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="60" title="Microsoft Azure"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="45" title="MongoDB "/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" title="Docker"/>
   &nbsp;&nbsp;
 
@@ -77,6 +78,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="45" title="GitHub"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="45" title="Jupyter Notebook"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="45" title="Visual Studio"/>
 
 </p>
 
@@ -89,15 +91,5 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedAtef721&theme=vue-dark&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef721&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAtef721&theme=vue-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamedAtef721&theme=vue-dark&hide_border=true&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
----
 
 <p align="center"><i>Always learning, always improving.</i></p>
