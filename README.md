@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
+<img align="right" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
 - 🧑‍💻 **Data Analyst & Data Scientist** | Graduate from the **Faculty of Computer Sciences & Information Technology**
 - 📊 Skilled in **Python, SQL, Power BI, Excel, Statistics**, and **Data Visualization**
