@@ -18,15 +18,21 @@
 - 🚀 Passionate about transforming raw data into actionable insights
 
 ---
-
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-atef22/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gayanvoice/github-active-users-monitor/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mohamedatef.engineer@gmail.com" target="_blank">
+    <tr>
+       <td align="center" width="80">
+        <a href="https://www.linkedin.com/in/mohamed-atef22/" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+        </a>
+      </td>
+        <td align="center" width="80">          
+        <a href="mailto:mohamedatef.engineer@gmail.com" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
+        </a>
+      </td>
+</p>
 
 ---
 
@@ -36,19 +42,19 @@
 
   <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" title="SQL"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="45" title="SQL"/>
   &nbsp;&nbsp;
 
   <!-- Data Science -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="45" title="TensorFlow"/>
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="45" title="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" title="Scikit-Learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" title="TensorFlow"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" title="PyTorch"/>
   &nbsp;&nbsp;
 
   <!-- Visualization / BI -->
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="45" title="Matplotlib"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain-wordmark.svg" width="45" title="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" title="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" title="Tableau"/>
@@ -56,20 +62,20 @@
 
   <!-- Databases & Cloud -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="45" title="Microsoft Azure"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="60" title="Microsoft Azure"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" title="Docker"/>
   &nbsp;&nbsp;
 
   <!-- AI / Automation -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="OpenAI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50" title="OpenAI"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>
   &nbsp;&nbsp;
 
   <!-- Development -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter Notebook"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="45" title="GitHub"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="45" title="Jupyter Notebook"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
 
 </p>
