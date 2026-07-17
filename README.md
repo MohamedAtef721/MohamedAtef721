@@ -4,8 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mohamed+Atef;Data+Analyst;Business+Intelligence+Developer;Power+BI+%7C+Python+%7C+SQL;Machine+Learning+%26+AI;Building+Data-Driven+Solutions&font=Fira%20Code&center=true&width=850&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
 </p>
----
-<img align="right" width="320"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
+<img align="right" width="340"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
 ## 💫 About Me
 
@@ -18,10 +17,21 @@
 
 ---
 
-## 🌍 Connect With Me 
-[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/mohamed-atef22/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)
+## 🌍 Connect With Me
 
+<p align="center">
+    <tr>
+       <td align="center" width="80">
+        <a href="https://www.linkedin.com/in/mohamed-atef22/" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+        </a>
+      </td>
+        <td align="center" width="80">          
+        <a href="mailto:mohamedatef.engineer@gmail.com" target="_blank">
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
+        </a>
+      </td>
+</p>
 ---
 ## 🧠 Languages & Tools
 
