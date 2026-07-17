@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mohamed+Atef;Data+Analyst;Business+Intelligence+Developer;Power+BI+%7C+Python+%7C+SQL;Machine+Learning+%26+AI;Building+Data-Driven+Solutions&font=Fira%20Code&center=true&width=850&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
 </p>
-<img align="right" width="340"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
+<img align="right" height="220"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
 ## 💫 About Me
 
