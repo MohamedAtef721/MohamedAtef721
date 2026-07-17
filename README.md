@@ -5,11 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+I'm+Mohamed+Atef;Data+Analyst+%26+Data+Scientist;Business+Intelligence+Developer;Power+BI+%7C+Python+%7C+SQL;Building+TIJARAH+-+Smart+Inventory+%26+BI+Platform&font=Fira%20Code&center=true&width=850&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
 </p>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## 💫 About Me
+
+<img align="right" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
 - 🧑‍💻 **Data Analyst & Data Scientist** | Graduate from the **Faculty of Computer Sciences & Information Technology**
 - 📊 Skilled in **Python, SQL, Power BI, Excel, Statistics**, and **Data Visualization**
@@ -19,12 +17,7 @@
 - 🔭 Currently building **TIJARAH** — a Smart Inventory & BI Platform as my graduation project
 - 🚀 Passionate about transforming raw data into actionable insights
 
-</td>
-<td width="40%" align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="320"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
