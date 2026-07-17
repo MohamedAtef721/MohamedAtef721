@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Mohamed Atef</h1>
-<h3 align="center">🚀 Data Analyst | Data Scientist | BI Developer</h3>
+<h3 align="center"> Data Analyst | Data Scientist | BI Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mohamed+Atef;Data+Analyst+%7C+Data+Scientist;Passionate+About+Data+Analytics;Business+Intelligence+Developer;AI+%26+Machine+Learning+Enthusiast" />
