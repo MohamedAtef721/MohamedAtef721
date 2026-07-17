@@ -1,62 +1,78 @@
-# 👋 Hey, I’m Mohamed Atef  
-# Data Analyst | Data Scientist   
-<img align="right" height="230" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF">Mohamed Atef</span></h1>
+<h3 align="center">🚀Data Analyst | Data Scientist | BI Developer</h3>
 
-✦ **Who Am I** 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mohamed+Atef;Data+Analyst;Business+Intelligence+Developer;Power+BI+%7C+Python+%7C+SQL;Machine+Learning+%26+AI;Building+Data-Driven+Solutions&font=Fira%20Code&center=true&width=850&height=60&duration=2500&pause=1200&color=00C6FF&vCenter=true&size=24" />
+</p>
+---
+<img align="right" width="320"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
-→ A data analyst who believes every dataset has a voice  
-→ Turns chaos into structure and noise into insight  
-→ Curious mind exploring analytics, AI & ML  
+## 💫 About Me
 
-✦ **What I Do**  
-→ Clean, explore & analyze data  
-→ Extract patterns & trends  
-→ Design dashboards that guide decisions  
-
-✦ **Fun Facts**  
-→ EDA never feels boring to me  
-→ Numbers > assumptions 📊  
-→ Always learning, always improving  
+- 🧑‍💻 **Data Analyst & Data Scientist** | Graduate from the **Faculty of Computer Sciences & Information Technology**
+- 📊 Skilled in **Python**, **SQL**, **Power BI**, **Excel**, **Statistics**, and **Data Visualization**
+- 🧠 Experienced in **Machine Learning**, **Deep Learning**, **Predictive Analytics**, and **Data Preprocessing**
+- 🏗️ Knowledgeable in **Data Warehousing**, **ETL (SSIS)**, and **Business Intelligence**
+- 🤖 Interested in **AI**, **LLMs**, **AI Agents**, and applying data science to solve real-world business problems
+- 🚀 Passionate about transforming raw data into actionable insights and building data-driven solutions
 
 ---
 
-# 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-atef22/)
+## 🌍 Connect With Me 
+[![LinkedIn](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/mohamed-atef22/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedatef.engineer@gmail.com)
 
 ---
+## 🧠 Languages & Tools
 
-# 💻 Tech Stack  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=flat) 
-![Seaborn](https://img.shields.io/badge/Seaborn-%235B8FA8.svg?style=flat) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+<p align="center">
 
----
+  <!-- Programming -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="SQL"/>
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mohamedatef22&show_icons=true&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedatef22&layout=compact&theme=radical)
+  <!-- Data Science -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="45" title="TensorFlow"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="45" title="PyTorch"/>
+
+  <!-- Visualization -->
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="45" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" title="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" title="Tableau"/>
+
+  <!-- Databases & BI -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite"/>
+
+  <!-- ETL & Cloud -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="45" title="Microsoft Azure"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" title="Docker"/>
+
+  <!-- AI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" title="OpenAI"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>
+
+  <!-- Development -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter Notebook"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+
+</p>
 
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedAtef721&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedAtef721&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef721&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAtef721&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAtef721&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedAtef721&theme=vue-dark&hide_border=true" />
+</div>
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+---
+
+<p align="center"><i>Always learning, always improving.</i></p>
