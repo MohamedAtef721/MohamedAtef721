@@ -17,8 +17,6 @@
 - 🔭 Currently building **TIJARAH** — a Smart Inventory & BI Platform as my graduation project
 - 🚀 Passionate about transforming raw data into actionable insights
 
-<br clear="right"/>
-
 ---
 
 ## 🌍 Connect With Me
@@ -29,13 +27,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:mohamedatef.engineer@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gayanvoice/github-active-users-monitor/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MohamedAtef721" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
