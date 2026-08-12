@@ -23,16 +23,16 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-atef22/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/mohamed-atef22/" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://mohamedatef-ten.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://mohamedatef-ten.vercel.app/" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="mailto:mohamedatef.engineer@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:mohamedatef.engineer@gmail.com" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
