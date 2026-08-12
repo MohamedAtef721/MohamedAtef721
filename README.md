@@ -22,23 +22,19 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-    <tr>
-      <td align="center" width="80">          
-        <a href="https://mohamedatef-ten.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=000000" 
-           alt="Portfolio"/>
-        </a>
-      </td>
-       <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/mohamed-atef22/" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg"  alt="LinkedIn"/>
-        </a>
-      </td>
-        <td align="center" width="80">          
-        <a href="mailto:mohamedatef.engineer@gmail.com" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
-        </a>
-      </td>
+
+<a href="https://www.linkedin.com/in/mohamed-atef22/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mohamedatef-ten.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:mohamedatef.engineer@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
