@@ -31,7 +31,7 @@
       </td>
        <td align="center" width="80">
         <a href="https://www.linkedin.com/in/mohamed-atef22/" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
+          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg"  alt="LinkedIn"/>
         </a>
       </td>
         <td align="center" width="80">          
