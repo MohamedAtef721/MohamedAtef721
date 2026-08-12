@@ -23,6 +23,12 @@
 
 <p align="center">
     <tr>
+      <td align="center" width="80">          
+        <a href="https://mohamedatef-ten.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&labelColor=000000&color=000000" 
+           alt="Portfolio"/>
+        </a>
+      </td>
        <td align="center" width="80">
         <a href="https://www.linkedin.com/in/mohamed-atef22/" target="_blank">
           <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
