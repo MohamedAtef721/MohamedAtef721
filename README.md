@@ -15,7 +15,6 @@
 - 🧠 Experienced in **Machine Learning, Deep Learning, Predictive Analytics**, and **Data Preprocessing**
 - 🏗️ Knowledgeable in **Data Warehousing, ETL (SSIS)**, and **Business Intelligence**
 - 🤖 Interested in **AI, LLMs, AI Agents**, and applying data science to real-world business problems
-- 🔭 Currently building **TIJARAH** — a Smart Inventory & BI Platform as my graduation project
 - 🚀 Passionate about transforming raw data into actionable insights
 
 ---
