@@ -10,7 +10,7 @@
 
 <img align="right" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
-- 🧑‍💻 **Data Analyst & Data Scientist** | Graduate from the **Faculty of Computer Sciences & Information Technology**
+- 🧑‍💻 **Data Analyst & Data Scientist** | **Computer Science & Information Technology Graduate**
 - 📊 Skilled in **Python, SQL, Power BI, Excel, Statistics**, and **Data Visualization**
 - 🧠 Experienced in **Machine Learning, Deep Learning, Predictive Analytics**, and **Data Preprocessing**
 - 🏗️ Knowledgeable in **Data Warehousing, ETL (SSIS)**, and **Business Intelligence**
