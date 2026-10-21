@@ -106,7 +106,7 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="Left">
   <img width="60%" src="https://streak-stats.demolab.com/?user=MohamedAtef721&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
 </p>
 
@@ -114,7 +114,7 @@
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/mohamed-atef22](https://www.linkedin.com/in/mohamed-atef22/)
-- **Email:** [mohamedatef.engineer@gmail.com](mailto:mohamedatef.engineer@gmail.com)
+- **Email:**    [mohamedatef.engineer@gmail.com](mailto:mohamedatef.engineer@gmail.com)
 - **Portfolio:**[https://mohamedatef-ten.vercel.app](https://mohamedatef-ten.vercel.app)
 
 <p align="center">
