@@ -25,83 +25,32 @@
 
 ## 🛠️ Technical Skills
 
-
-### 💻 Programming Languages
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
-  <strong>Python</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="SQL" title="SQL"/>
-  <strong>SQL</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
-  <strong>Java</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>&nbsp;<b>Python</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="SQL" title="SQL"/>&nbsp;<b>SQL</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>&nbsp;<b>Java</b>&nbsp;&nbsp;&nbsp;
+  <b>Bash</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>&nbsp;<b>Power BI</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>&nbsp;<b>Tableau</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" alt="Excel" title="Excel"/>&nbsp;<b>Excel</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop" title="Hadoop"/>&nbsp;<b>Hadoop</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark"/>&nbsp;<b>Spark</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka" title="Kafka"/>&nbsp;<b>Kafka</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40" alt="Hive" title="Hive"/>&nbsp;<b>Hive</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" alt="Airflow" title="Airflow"/>&nbsp;<b>Airflow</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" alt="Databricks" title="Databricks"/>&nbsp;<b>Databricks</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>&nbsp;<b>Fabric</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" title="Azure"/>&nbsp;<b>Azure</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" title="AWS"/>&nbsp;<b>AWS</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" title="SQL Server"/>&nbsp;<b>SQL Server</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>&nbsp;<b>MySQL</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;<b>PostgreSQL</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>&nbsp;<b>MongoDB</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>&nbsp;<b>Git</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>&nbsp;<b>GitHub</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>&nbsp;<b>Linux</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>&nbsp;<b>Docker</b>
 </p>
-
-### 📊 BI & Data Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>
-  <strong>Power BI</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>
-  <strong>Tableau</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" alt="Microsoft Excel" title="Microsoft Excel"/>
-  <strong>Excel</strong>
-</p>
-
-### ⚡ Big Data & Data Engineering
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop" title="Hadoop"/>
-  <strong>Hadoop</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark"/>
-  <strong>Apache Spark</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Apache Kafka" title="Apache Kafka"/>
-  <strong>Kafka</strong>
-  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40" alt="Apache Hive" title="Apache Hive"/>
-  <strong>Hive</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" alt="Apache Airflow" title="Apache Airflow"/>
-  <strong>Airflow</strong>&nbsp;&nbsp;&nbsp;
-</p>
-
-### ☁️ Cloud & Data Platforms
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" alt="Databricks" title="Databricks"/>
-  <strong>Databricks</strong>&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>
-  <strong>Microsoft Fabric</strong>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure" title="Microsoft Azure"/>
-  <strong>Azure</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" title="AWS"/>
-  <strong>AWS</strong>&nbsp;&nbsp;&nbsp;
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" title="SQL Server"/>
-  <strong>SQL Server</strong>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
-  <strong>MySQL</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
-  <strong>PostgreSQL</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
-  <strong>MongoDB</strong>
-</p>
-
-### 🔧 Tools & Version Control
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
-  <strong>Git</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
-  <strong>GitHub</strong>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>
-  <strong>Linux</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
-  <strong>Docker</strong>
-</p>
-
 ---
 ## 📊 GitHub Stats
 
