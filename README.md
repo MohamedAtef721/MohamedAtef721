@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>&nbsp;<b>Python</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="SQL" title="SQL"/>&nbsp;<b>SQL</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>&nbsp;<b>Java</b>&ensp;&ensp;&ensp;
-  <b>Bash</b>&ensp;&ensp;&ensp;
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>&nbsp;<b>Power&nbsp;BI</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>&nbsp;<b>Tableau</b>&ensp;&ensp;&ensp;
   <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" alt="Excel" title="Excel"/>&nbsp;<b>Excel</b>&ensp;&ensp;&ensp;
@@ -51,8 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>&nbsp;<b>Linux</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>&nbsp;<b>Docker</b>
 </p>
----
 
+---
 ## 📊 GitHub Stats
 
 <p align="Left">
