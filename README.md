@@ -28,7 +28,7 @@
 
 ### 💻 Programming Languages
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
   <strong>Python</strong>&nbsp;&nbsp;&nbsp;
    <strong>Bash</strong>&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@
 
 ### 📊 BI & Data Analytics
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>
   <strong>Power BI</strong>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>
@@ -51,7 +51,7 @@
 
 ### ⚡ Big Data & Data Engineering
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop" title="Hadoop"/>
   <strong>Hadoop</strong>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark"/>
@@ -66,7 +66,7 @@
 
 ### ☁️ Cloud & Data Platforms
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" alt="Databricks" title="Databricks"/>
   <strong>Databricks</strong>&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>
@@ -79,7 +79,7 @@
 
 ### 🗄️ Databases
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" title="SQL Server"/>
   <strong>SQL Server</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
@@ -92,7 +92,7 @@
 
 ### 🔧 Tools & Version Control
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
   <strong>Git</strong>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
@@ -108,7 +108,6 @@
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=MohamedAtef721&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef721&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
