@@ -1,95 +1,123 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Mohamed Atef
+# 👋 Hi there, I'm Mohamed Atef
 
-<h3 align="center"> Data Analyst | Data Scientist | BI Developer</h3>
+<h3 align="center">Data Analyst | BI Developer | Data Scientist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Mohamed+Atef;Data+Analyst+%7C+Data+Scientist;Passionate+About+Data+Analytics;Business+Intelligence+Developer;AI+%26+Machine+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Insights;SQL+%7C+Python+%7C+Power+BI;Business+Intelligence+%26+Analytics;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
+
+---
 
 ## 💫 About Me
 
 <img align="right" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1pMDZkdWxxc2U4ajA2b2M4NDEwOGVnbGV2anNvMGIyZnU0MzIxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
 
-- 🧑‍💻 **Data Analyst & Data Scientist** | **Computer Science & Information Technology Graduate**
-- 📊 Skilled in **Python, SQL, Power BI, Excel, Statistics**, and **Data Visualization**
-- 🧠 Experienced in **Machine Learning, Deep Learning, Predictive Analytics**, and **Data Preprocessing**
-- 🏗️ Knowledgeable in **Data Warehousing, ETL (SSIS)**, and **Business Intelligence**
-- 🤖 Interested in **AI, LLMs, AI Agents**, and applying data science to real-world business problems
-- 🚀 Passionate about transforming raw data into actionable insights
+- 🎓 Computer Science & Information Technology Graduate
+- 🏅 ITI Graduate — Business Intelligence / Power BI Track
+- 📊 Focused on **Data Analytics and Business Intelligence**
+- 🐍 Working with **Python, Pandas, SQL, and Excel** to analyze data
+- 📈 Building interactive dashboards and reports with **Power BI**
+- 🏗️ Interested in **Data Warehousing, ETL, and Data Engineering**
+- 🤖 Exploring **Machine Learning, AI, and LLM applications**
+- 🚀 Passionate about transforming raw data into actionable business insights
 
 ---
-## 🌍 Connect With Me
 
-<p align="center">
+## 🛠️ Technical Skills
 
-<a href="https://www.linkedin.com/in/mohamed-atef22/" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<a href="https://mohamedatef-ten.vercel.app/" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+### 💻 Programming Languages
 
-<a href="mailto:mohamedatef.engineer@gmail.com" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
+  <strong>Python</strong>&nbsp;&nbsp;&nbsp;
+   <strong>Bash</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="SQL" title="SQL"/>
+  <strong>SQL</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
+  <strong>Java</strong>&nbsp;&nbsp;&nbsp;
+</p>
 
+### 📊 BI & Data Analytics
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>
+  <strong>Power BI</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>
+  <strong>Tableau</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" alt="Microsoft Excel" title="Microsoft Excel"/>
+  <strong>Excel</strong>
+</p>
+
+### ⚡ Big Data & Data Engineering
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop" title="Hadoop"/>
+  <strong>Hadoop</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark"/>
+  <strong>Apache Spark</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Apache Kafka" title="Apache Kafka"/>
+  <strong>Kafka</strong>
+  <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40" alt="Apache Hive" title="Apache Hive"/>
+  <strong>Hive</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" alt="Apache Airflow" title="Apache Airflow"/>
+  <strong>Airflow</strong>&nbsp;&nbsp;&nbsp;
+</p>
+
+### ☁️ Cloud & Data Platforms
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" alt="Databricks" title="Databricks"/>
+  <strong>Databricks</strong>&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>
+  <strong>Microsoft Fabric</strong>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Microsoft Azure" title="Microsoft Azure"/>
+  <strong>Azure</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" title="AWS"/>
+  <strong>AWS</strong>&nbsp;&nbsp;&nbsp;
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" title="SQL Server"/>
+  <strong>SQL Server</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
+  <strong>MySQL</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <strong>PostgreSQL</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
+  <strong>MongoDB</strong>
+</p>
+
+### 🔧 Tools & Version Control
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
+  <strong>Git</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
+  <strong>GitHub</strong>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>
+  <strong>Linux</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker"/>
+  <strong>Docker</strong>
 </p>
 
 ---
-
-## 🧠 Languages & Tools
-
-<p align="center">
-
-  <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="45" title="SQL"/>
-  &nbsp;&nbsp;
-
-  <!-- Data Science -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" title="Scikit-Learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" title="TensorFlow"/>
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="50" title="PyTorch"/>
-  &nbsp;&nbsp;
-
-  <!-- Visualization / BI -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-plain-wordmark.svg" width="45" title="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" title="Seaborn"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" title="Power BI"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45" title="Tableau"/>
-  &nbsp;&nbsp;
-
-  <!-- Databases & Cloud -->
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="60" title="Microsoft Azure"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" title="SQLite"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="45" title="MongoDB "/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" title="Docker"/>
-  &nbsp;&nbsp;
-
-  <!-- AI / Automation -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50" title="OpenAI"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>
-  &nbsp;&nbsp;
-
-  <!-- Development -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" title="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="45" title="GitHub"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="45" title="Jupyter Notebook"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="45" title="Visual Studio"/>
-
-</p>
-
----
-
 ## 📊 GitHub Stats
 
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MohamedAtef721&theme=vue-dark&hide_border=true" />
-</div>
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=MohamedAtef721&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef721&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
+---
+## 📫 Connect With Me
 
-<p align="center"><i>Always learning, always improving.</i></p>
+- **LinkedIn:** [linkedin.com/in/mohamed-atef22](https://www.linkedin.com/in/mohamed-atef22/)
+- **Email:** [mohamedatef.engineer@gmail.com](mailto:mohamedatef.engineer@gmail.com)
+- **Portfolio:**[https://mohamedatef-ten.vercel.app](https://mohamedatef-ten.vercel.app)
+
+<p align="center">
+  <i>Always learning, always improving — one insight at a time.</i>
+</p>
