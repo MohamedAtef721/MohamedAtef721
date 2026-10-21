@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>&nbsp;<b>Python</b>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="SQL" title="SQL"/>&nbsp;<b>SQL</b>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>&nbsp;<b>Java</b>&nbsp;&nbsp;&nbsp;
-  <b>Bash</b>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>&nbsp;<b>Power BI</b>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>&nbsp;<b>Tableau</b>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" alt="Excel" title="Excel"/>&nbsp;<b>Excel</b>&nbsp;&nbsp;&nbsp;
@@ -39,7 +38,7 @@
   <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40" alt="Hive" title="Hive"/>&nbsp;<b>Hive</b>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" alt="Airflow" title="Airflow"/>&nbsp;<b>Airflow</b>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" alt="Databricks" title="Databricks"/>&nbsp;<b>Databricks</b>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>&nbsp;<b>Fabric</b>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>&nbsp;<b>Microsoft Fabric</b>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" title="Azure"/>&nbsp;<b>Azure</b>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" title="AWS"/>&nbsp;<b>AWS</b>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" title="SQL Server"/>&nbsp;<b>SQL Server</b>&nbsp;&nbsp;&nbsp;
