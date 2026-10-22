@@ -27,7 +27,11 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>&nbsp;<b>Python</b>&ensp;&ensp;&ensp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter Notebook" title="Jupyter Notebook"/>&nbsp;<b>Jupyter Notebook</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas" title="Pandas"/>&nbsp;<b>Pandas</b>&ensp;&ensp;&ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy" title="NumPy"/>&nbsp;<b>NumPy</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="SQL" title="SQL"/>&nbsp;<b>SQL</b>&ensp;&ensp;&ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SSMS" title="SQL Server Management Studio"/>&nbsp;<b>SSMS</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>&nbsp;<b>Java</b>&ensp;&ensp;&ensp;
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>&nbsp;<b>Power&nbsp;BI</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>&nbsp;<b>Tableau</b>&ensp;&ensp;&ensp;
