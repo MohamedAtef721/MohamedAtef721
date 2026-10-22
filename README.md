@@ -36,11 +36,10 @@
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>&nbsp;<b>Power&nbsp;BI</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>&nbsp;<b>Tableau</b>&ensp;&ensp;&ensp;
   <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" alt="Excel" title="Excel"/>&nbsp;<b>Excel</b>&ensp;&ensp;&ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop" title="Hadoop"/>&nbsp;<b>Hadoop</b>
 </p>
 
-
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop" title="Hadoop"/>&nbsp;<b>Hadoop</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark"/>&nbsp;<b>Apache&nbsp;Spark</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka" title="Kafka"/>&nbsp;<b>Kafka</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40" alt="Hive" title="Hive"/>&nbsp;<b>Hive</b>&ensp;&ensp;&ensp;
