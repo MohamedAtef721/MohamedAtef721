@@ -37,17 +37,17 @@
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Power BI" title="Power BI"/>&nbsp;<b>Power&nbsp;BI</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tableau/default.svg" width="40" alt="Tableau" title="Tableau"/>&nbsp;<b>Tableau</b>&ensp;&ensp;&ensp;
   <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="40" alt="Excel" title="Excel"/>&nbsp;<b>Excel</b>&ensp;&ensp;&ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop" title="Hadoop"/>&nbsp;<b>Hadoop</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark"/>&nbsp;<b>Apache&nbsp;Spark</b>&ensp;&ensp;&ensp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka" title="Kafka"/>&nbsp;<b>Kafka</b>&ensp;&ensp;&ensp;
 </p>
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" alt="Hadoop" title="Hadoop"/>&nbsp;<b>Hadoop</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark"/>&nbsp;<b>Apache&nbsp;Spark</b>&ensp;&ensp;&ensp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka" title="Kafka"/>&nbsp;<b>Kafka</b>&ensp;&ensp;&ensp;
+
   <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40" alt="Hive" title="Hive"/>&nbsp;<b>Hive</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" alt="Airflow" title="Airflow"/>&nbsp;<b>Airflow</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" alt="Databricks" title="Databricks"/>&nbsp;<b>Databricks</b>&ensp;&ensp;&ensp;
 </p>
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>&nbsp;<b>Microsoft&nbsp;Fabric</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" title="Azure"/>&nbsp;<b>Azure</b>&ensp;&ensp;&ensp;
