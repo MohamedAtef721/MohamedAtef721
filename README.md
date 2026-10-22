@@ -41,9 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" alt="Apache Spark" title="Apache Spark"/>&nbsp;<b>Apache&nbsp;Spark</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka" title="Kafka"/>&nbsp;<b>Kafka</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.simpleicons.org/apachehive/FDEE21" width="40" alt="Hive" title="Hive"/>&nbsp;<b>Hive</b>&ensp;&ensp;&ensp;
-</p>
-
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" alt="Airflow" title="Airflow"/>&nbsp;<b>Airflow</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" alt="Databricks" title="Databricks"/>&nbsp;<b>Databricks</b>&ensp;&ensp;&ensp;
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>&nbsp;<b>Microsoft&nbsp;Fabric</b>
