@@ -45,7 +45,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" alt="Airflow" title="Airflow"/>&nbsp;<b>Airflow</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" width="40" alt="Databricks" title="Databricks"/>&nbsp;<b>Databricks</b>&ensp;&ensp;&ensp;
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>&nbsp;<b>Microsoft&nbsp;Fabric</b>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" alt="Microsoft Fabric" title="Microsoft Fabric"/>&nbsp;<b>Microsoft&nbsp;Fabric</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" title="Azure"/>&nbsp;<b>Azure</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS" title="AWS"/>&nbsp;<b>AWS</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server" title="SQL Server"/>&nbsp;<b>SQL&nbsp;Server</b>&ensp;&ensp;&ensp;
