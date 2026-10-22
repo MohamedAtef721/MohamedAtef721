@@ -54,9 +54,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>&nbsp;<b>MySQL</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;<b>PostgreSQL</b>&ensp;&ensp;&ensp;
-</p>
-
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>&nbsp;<b>MongoDB</b>&ensp;&ensp;&ensp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>&nbsp;<b>Git</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>&nbsp;<b>GitHub</b>&ensp;&ensp;&ensp;
