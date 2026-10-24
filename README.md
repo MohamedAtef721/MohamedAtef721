@@ -62,8 +62,6 @@
 </p>
 <p align="left">
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" alt="n8n" title="n8n"/>&nbsp;<b>n8n</b>&ensp;&ensp;&ensp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" alt="LangChain" title="LangChain"/>&nbsp;<b>LangChain</b>&ensp;&ensp;&ensp;
-  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="OpenAI" title="OpenAI"/>&nbsp;<b>OpenAI</b>
 </p>
 
 ---
