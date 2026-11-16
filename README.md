@@ -74,9 +74,9 @@
 ---
 ## 📫 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/mohamed-atef22](https://www.linkedin.com/in/mohamed-atef22/)
-- **Email:**    [mohamedatef.engineer@gmail.com](mailto:mohamedatef.engineer@gmail.com)
-- **Portfolio:**[https://mohamedatef-ten.vercel.app](https://mohamedatef-ten.vercel.app)
+- **LinkedIn:**   [linkedin.com/in/mohamed-atef22](https://www.linkedin.com/in/mohamed-atef22/)
+- **Email:**      [mohamedatef.engineer@gmail.com](mailto:mohamedatef.engineer@gmail.com)
+- **Portfolio:**  [https://mohamedatef-ten.vercel.app](https://mohamedatef-ten.vercel.app)
 
 <p align="center">
   <i>Always learning, always improving — one insight at a time.</i>
